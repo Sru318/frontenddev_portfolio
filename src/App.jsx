@@ -8,11 +8,12 @@ import Projects from "./pages/Projects";
 import Contact from "./pages/Contact";
 import Footer from "./pages/Footer";
 import {BrowserRouter} from "react-router-dom"
+import {HashRouter} from "react-router-dom"
 
 function App(){
   return(
     <>
-    <BrowserRouter>
+    <HashRouter>
     <Particle/>
     <Hero/>
     <About/>
@@ -22,7 +23,7 @@ function App(){
     <Projects/>
     <Contact/>
     <Footer/>
-    </BrowserRouter>
+    </HashRouter>
     
 
 
