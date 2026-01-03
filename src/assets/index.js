@@ -18,10 +18,10 @@ import jobinandjismi from "./company/jobinjismi.png";
 import tcs from "./company/tcs.jpeg";
 
 
-import bmi from "./project/bmi.png";
-import dinogame from "./project/dinogame.png";
-import netflix from "./project/netflix.png";
-import spotify from "./project/spotify.png";
+import bmi from "./bmi.PNG";
+import dinogame from "./dinogame.PNG";
+import netflix from "./netflix.PNG";
+import spotify from "./spotify.PNG";
 
 export const skills= {
   html5,
